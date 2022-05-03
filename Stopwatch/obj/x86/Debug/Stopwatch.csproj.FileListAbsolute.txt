@@ -1,0 +1,5 @@
+C:\Users\geovane.3CRJ001217N\documents\visual studio 2010\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\geovane.3CRJ001217N\documents\visual studio 2010\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\geovane.3CRJ001217N\documents\visual studio 2010\Projects\Stopwatch\Stopwatch\obj\x86\Debug\Stopwatch.exe
+C:\Users\geovane.3CRJ001217N\documents\visual studio 2010\Projects\Stopwatch\Stopwatch\obj\x86\Debug\Stopwatch.pdb
+C:\Users\geovane.3CRJ001217N\documents\visual studio 2010\Projects\Stopwatch\Stopwatch\obj\x86\Debug\Stopwatch.csprojResolveAssemblyReference.cache
